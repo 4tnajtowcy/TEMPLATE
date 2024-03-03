@@ -5,7 +5,7 @@
 # 3
 ### Nazwij swojego bota, zaznacz i kliknij Create <img src="./dontTouch/images/2.png">
 # 4
-### W pliku config.js w client id (2HKJ) podaj application id i w prefix podaj prefix bota, kliknij <a href="https://bit.ly/db-add-tmplt" target="_blank">tutaj</a> i w linku znajdź "PODAJ_TU_APPLICATION_ID" i zamień to na application id) <img src="./dontTouch/images/3.png"> <img src="./dontTouch/images/4.png">
+### W pliku config.js w client id (2HKJ) podaj application id i w prefix podaj prefix bota, kliknij <a href="https://bit.ly/db-add-tmplt" target="_blank">tutaj</a> i w linku znajdź "PODAJ_TU_APPLICATION_ID" i zamień to na application id <img src="./dontTouch/images/3.png"> <img src="./dontTouch/images/4.png">
 # 5
 ### Wejdź w sekcje bot <img src="./dontTouch/images/5.png">
 # 6
